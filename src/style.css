@@ -1,0 +1,58 @@
+form {
+  position: relative;
+  display: block;
+  width: 1008px;
+  margin-left: 0;
+}
+
+fieldset {
+  display: block;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+#personal-information {
+  height: 163px;
+  padding-top: 6px;
+}
+
+#age {
+  width: 65px;
+    
+}
+
+#date-of-birth-id {
+  margin-top: -2px;
+  margin-bottom: 12px;
+}
+
+#interesting-fact {
+  height: 225px;
+}
+
+#date-of-birth-id input {
+  width: 148px;
+}
+
+#registration-id {
+  height: 68px;
+  padding-top: 5px;
+  padding-left: 12px;
+}
+
+#additional {
+  height: 85px;
+}
+
+#recommend {
+  overflow: visible !important;
+}
+
+#comments {
+  width: 177px;
+}
